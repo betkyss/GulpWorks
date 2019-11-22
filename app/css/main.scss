@@ -1,0 +1,19 @@
+@import 'mixins';
+@import 'variables';
+@import 'hamburgers.scss';
+
+html, body {
+  margin: 0;
+  padding: 0;
+  font-size: 15px;
+  background: rgb(208, 247, 248);
+}
+h1 {
+  color: #aaa;
+  background: #fff;
+  font-size: 2rem;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 40px;
+  text-transform: uppercase;
+}
