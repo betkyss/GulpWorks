@@ -1,8 +1,17 @@
+//ЛОКАЛЬНЫЙ ИМПОРТ
+@import 'hamburgers.scss';
+//СИСТЕМНЫЙ ИМПОРТ
 @import 'mixins';
 @import 'variables';
-@import 'hamburgers.scss';
 
-html, body {
+//СИСТЕМНЫЕ СТИЛИ
+* {
   margin: 0;
   padding: 0;
 }
+a {
+  text-decoration: none;
+  color: inherit !important;
+}
+ 
+//СТИЛИ САЙТА
