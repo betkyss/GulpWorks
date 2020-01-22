@@ -43,7 +43,7 @@ const scriptFiles = [
    './app/bower/jquery/dist/jquery.js',
    './app/bower/slick-carousel/slick/slick.js',
    './app/bower/bootstrap/dist/js/bootstrap.js',
-   './app/js/jquery.arcticmodal-0.3.min.js',
+   './app/js/link/articmodal/jquery.arcticmodal-0.3.min.js',
    './app/js/lib.js',
    './app/js/main.js',
 ]

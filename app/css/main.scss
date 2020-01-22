@@ -1,5 +1,5 @@
 //ЛОКАЛЬНЫЙ ИМПОРТ
-@import 'hamburgers.scss';
+@import 'link/hamburgers/hamburgers.scss';
 //СИСТЕМНЫЙ ИМПОРТ
 @import 'mixins';
 @import 'variables';
@@ -13,5 +13,5 @@ a {
   text-decoration: none;
   color: inherit !important;
 }
- 
+
 //СТИЛИ САЙТА
